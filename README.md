@@ -3,9 +3,9 @@
 ## Steps to run locally :
 
 Step 1 : Clone the repository in your terminal using the command :
-        ```bash
+        `bash
         git clone https://github.com/viswanathsr-04/text-to-speech-gtts.git
-        ```
+        `
 Step 2 : Create a Virtual Environment using the command : 
         ```bash
         python -m venv <env_name>
