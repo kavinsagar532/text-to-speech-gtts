@@ -27,3 +27,4 @@ streamlit run app.py
 ```        
 
 ## Use the globally deployed Application
+[Text-to-Speech Application](https://txt-to-speech.streamlit.app/)
